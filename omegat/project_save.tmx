@@ -6,10 +6,50 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>2 AA batteries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Oscar Bascuñán" changedate="20130526T220210Z">
+        <seg>2 baterías AA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console</seg>
       </tuv>
       <tuv lang="ES" changeid="Oscar Bascuñán" changedate="20130526T193132Z">
         <seg>Consola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power cord</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Oscar Bascuñán" changedate="20130526T220140Z">
+        <seg>Cable de alimentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power supply</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Oscar Bascuñán" changedate="20130526T220122Z">
+        <seg>Fuente de alimentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manual</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Oscar Bascuñán" changedate="20130526T220223Z">
+        <seg>Manual de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wireless controller</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Oscar Bascuñán" changedate="20130526T220200Z">
+        <seg>Control inalámbrico</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
