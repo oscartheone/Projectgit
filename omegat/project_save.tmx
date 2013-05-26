@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the error messages you might see:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Sala05" changedate="20130513T233937Z">
+        <seg>Podrían aparecer los siguientes mensajes de error:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This article speaks to what to do if you get an error message when you try to do one these things:</seg>
       </tuv>
       <tuv lang="ES" changeid="Sala05" changedate="20130513T233707Z">
