@@ -1,0 +1,147 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="zune" id="3d432aca-83b2-4f57-a8fa-fd79a69e6281" PresentationTemplate="Support-Generic - SolutionArticlePage">
+    <Variant variantCulture="en-US">
+      <Field name="PageDetails/Title" type="String">Zune Music on Xbox 360 | Zune Music Pass | Zune Music Videos  - Xbox.com</Field>
+      <Field name="PageDetails/MetaDescription" type="String">Learn how to stream music and music videos from the Zune Music Marketplace to your Xbox 360 console.</Field>
+      <Field name="PageDetails/MetaKeywords" type="String">Zune music, Zune Music Pass, Zune Music Marketplace, Zune music videos</Field>
+      <Field name="PageDetails/BreadcrumbName" type="String">Zune music and videos</Field>
+      <Field name="ApplicationStatusModule/ApplicationID" type="String">17128</Field>
+      <Field name="NavigationListItem/Title" type="String">Zune music and videos on Xbox LIVE</Field>
+      <Field name="NavigationListItem/Description" type="String">You can stream music and music videos from the Zune Music Marketplace to your Xbox 360 console. See how to access millions of complete songs and thousands of music videos directly from your console. </Field>
+      <Field name="SolutionList/0/#Name" type="String" value="H2 Stream music and music videos"></Field>
+      <Field name="SolutionList/1/#Name" type="String" value="text - 1"></Field>
+      <Field name="SolutionList/2/#Name" type="String" value="image 1"></Field>
+      <Field name="SolutionList/3/#Name" type="String" value="Start-Text"></Field>
+      <Field name="SolutionList/4/#Name" type="String" value="Zune Music Marketplace"></Field>
+      <Field name="SolutionList/0/StartSectionModule/Title" type="String">Stream music and music videos</Field>
+      <Field name="SolutionList/1/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>You can stream music and music videos from the Zune Music Marketplace to your Xbox 360 console. With a Zune Music Pass, you can access millions of complete songs and thousands of music videos directly from your console. Here’s how:</p>]]></Field>
+      <Field name="SolutionList/3/TextModule/HtmlContent" type="RichContent"><![CDATA[<ol>
+  <li>On your console, sign in with your Xbox LIVE gamertag.</li>
+
+  <li>Go to <b>Music</b>, and then select <b>Zune Music Marketplace</b>. </li>
+
+
+<p><b>Note</b> If you haven’t downloaded the Zune Music Marketplace app, or if an update is needed, the app automatically downloads. </p>
+
+
+  <li>Select an artist, song, album, or music video. Browse or search for a specific artist or song. </li>
+</ol>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/Title" type="String">Zune Music Marketplace</Field>
+      <Field name="SolutionList/4/LongArticlesModule/SubTitle" type="String">Frequently asked questions</Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/0/#Name" type="String" value="What do I need to play music and music videos?"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/1/#Name" type="String" value="Text 1"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/2/#Name" type="String" value="I'm having trouble launching the Zune app on my Xbox 360"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/3/#Name" type="String" value="Text_add_1"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/4/#Name" type="String" value="What is the difference between a Zune Tag and a gamertag? "></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/5/#Name" type="String" value="Text 2"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/6/#Name" type="String" value="Can I use my Zune Music Pass with multiple accounts? "></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/7/#Name" type="String" value="Text 3"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/8/#Name" type="String" value="How can I cancel or update my Zune Music Pass?"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/9/#Name" type="String" value="Text_add_2"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/10/#Name" type="String" value="Can I download music to my console? "></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/11/#Name" type="String" value="Text 4"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/12/#Name" type="String" value="How do I manage my Zune account? "></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/13/#Name" type="String" value="Text 5"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/14/#Name" type="String" value="Zune service is not available."></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/15/#Name" type="String" value="Text 6"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/16/#Name" type="String" value="I can’t stream music from my personal music library"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/17/#Name" type="String" value="Text 7"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/0/StartSectionModule/Title" type="String">What do I need to play music and music videos?</Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/1/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>You need an Xbox LIVE Gold Membership and a <a></a><a href="http://www.zune.net/products/zunepass/default.htm">Zune Music Pass</a>, to play millions of songs and thousands of music videos on your console. </p>
+
+<p>If you don’t have a Zune Music Pass, you can sample 30-second music clips and explore the Zune Music Marketplace.</p>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/2/StartSectionModule/Title" type="String">I'm having trouble launching the Zune app on my Xbox 360</Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/3/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>Try deleting and reinstalling the Zune app. Here's how:</p>
+<p><ol><li>Go to <b>Settings</b>, and then select <b>System</b>.</li>
+<li>Select <b>Storage</b>, then select your primary storage device (most likely Hard Drive).</li>
+<li>Select <b>Games and Apps</b>.</li>
+<li>Find and select any items that refer to the Zune app.</li>
+<li>Select <b>Delete</b>.</li>
+<li>Return to Xbox Home, and try to download and launch the Zune app again.</li></ol></p>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/4/StartSectionModule/Title" type="String">What is the difference between a Zune tag and a gamertag? </Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/5/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>There is no difference between a Zune tag and a gamertag. You use the same account for Zune and your Xbox 360 console</p>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/6/StartSectionModule/Title" type="String">Can I use my Zune Music Pass with multiple accounts? </Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/7/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>No, a Zune Music Pass can be associated with only one Xbox LIVE account or gamertag.</p>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/8/StartSectionModule/Title" type="String">How can I cancel or update my Zune Music Pass?</Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/9/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>See <a href="http://www.zune.net/en-us/support/zunepass/accountinfo/updateorcancelzunepass.htm">Updating or Cancelling Your Zune Music Pass Subscription</a> for more details.</p>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/10/StartSectionModule/Title" type="String">Can I download music to my console? </Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/11/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>No. Music on your Xbox 360 console is available for streaming only. You can, however, download music from the Zune Music Marketplace to your computer or Windows Phone.</p>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/12/StartSectionModule/Title" type="String">How do I manage my Zune account? </Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/13/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>You can manage your Zune account using the Zune software on your computer or <b>My Account</b> on <a href="http://www.zune.net/">Zune.net</a>. You sign in using your Windows Live ID information. </p>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/14/StartSectionModule/Title" type="String">Zune service is not available.</Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/15/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>When trying to access Zune from your Xbox console, you see: Zune service is not available. Try the following:</p>
+
+<p><b>Solution 1</b>: Check the <a href="/xbox-live-status">Zune service status</a></p>
+
+<p><b>Solution 2</b>: Accept the Terms of Use</p>
+
+<ol>
+  <li>Go to <a></a><a href="http://zune.net">Zune.net</a>.</li>
+
+  <li>Click <b>sign in</b> (upper-right corner), and enter your Windows Live ID and password. </li>
+
+  <li>Accept the Terms of Use if you’re prompted to do so. </li>
+
+  <li>Start Zune on your Xbox 360 console.</li>
+</ol>]]></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/16/StartSectionModule/Title" type="String">I can’t stream music from my personal music library</Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/17/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>You can stream music to your Xbox 360 console from any computer using the Zune software. If you’re having problems streaming music, try the following:</p>
+
+<b>Set up Zune for streaming</b>
+
+<p>Follow the setup steps on this page: <a></a><a href="/xbox-360/audio-video-setup-and-use/media">Stream media from your computer using Zune</a>. </p>
+
+<b>Download the Optional Media Update </b>
+
+<p>Music is distributed in different formats, including MP3, WMA, and AAC. To listen to music in Apple’s AAC (Advanced Audio Coding) format from your iPod, download the Optional Media Update. This software is available for free from Xbox LIVE Marketplace. </p>
+
+<p><b>To download the Optional Media Update</b></p>
+
+<ol>
+  <li>On your console, go to<b> Bing</b>, and<b> </b>search for "Optional Media Update."</li>
+
+  <li>Select <b>Optional Media Update</b>.</li>
+
+  <li>Select <b>Optional Media Update</b> again.</li>
+
+  <li>Select <b>Confirm Download</b>. The download is free.</li>
+
+  <li>Once your download is complete, select <b>Continue</b>, and then return to the Xbox Home.</li>
+
+  <li>Try playing the music again. If your console still does not play the music, the music format is not supported by the Xbox 360 console or it is copy-protected.</li>
+</ol>]]></Field>
+      <Field name="RelatedContentList/0/#Name" type="String" value="Zune movies and TV shows on Xbox 360 "></Field>
+      <Field name="RelatedContentList/0/#Enabled" type="String" value="False"></Field>
+      <Field name="RelatedContentList/1/#Name" type="String" value="How to listen to music on your console"></Field>
+      <Field name="RelatedContentList/2/#Name" type="String" value="Stream media using Zune or Windows Media Player"></Field>
+      <Field name="RelatedContentList/0/Title" type="String">Zune movies and TV shows on Xbox 360 </Field>
+      <Field name="RelatedContentList/1/Title" type="String">How to listen to music on your console</Field>
+      <Field name="RelatedContentList/2/Title" type="String">Stream media using Zune or Windows Media Player</Field>
+      <Field name="SolutionList/0/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/1/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/2/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/3/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/0/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/1/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/2/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/3/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/4/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/5/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/6/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/7/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/8/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/9/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/10/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/11/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/12/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/13/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/14/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/15/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/16/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/4/LongArticlesModule/ArticleModuleBasicList/17/#Enabled" type="String" value="True"></Field>
+      <Field name="RelatedContentList/1/#Enabled" type="String" value="True"></Field>
+      <Field name="RelatedContentList/2/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

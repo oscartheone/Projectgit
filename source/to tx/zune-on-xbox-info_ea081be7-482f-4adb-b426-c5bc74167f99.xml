@@ -1,0 +1,45 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="zune-on-xbox-info" id="ea081be7-482f-4adb-b426-c5bc74167f99" PresentationTemplate="Support-Generic - FamilyPage">
+    <Variant variantCulture="en-US">
+      <Field name="PageDetails/Title" type="String">Zune Music and Video on Xbox LIVE | Zune App | Zune Marketplace </Field>
+      <Field name="PageDetails/MetaDescription" type="String">Find all you need to know to listen to music and watch Zune movies and TV shows on your Xbox 360 console.</Field>
+      <Field name="PageDetails/MetaKeywords" type="String">Zune on xbox, watch Zune on xbox, Zune Xbox LIVE, zune streaming problem, audio on xbox, videos on xbox</Field>
+      <Field name="PageDetails/BreadcrumbName" type="String">Zune music and videos</Field>
+      <Field name="NavigationListItem/Title" type="String">Zune on Xbox LIVE</Field>
+      <Field name="NavigationListItem/Description" type="String">Find all you need to know to listen to music and watch Zune movies and TV shows on your Xbox 360 console.</Field>
+      <Field name="ArticleGroups/0/#Name" type="String" value="Zune on Xbox LIVE"></Field>
+      <Field name="ArticleGroups/0/Title" type="String">Zune on Xbox LIVE</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/#Name" type="String" value="Enjoy music and music videos"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/#Name" type="String" value="Troubleshooting"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/Title" type="String">Enjoy music and music videos</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/0/#Name" type="String" value="Zune music and videos on Xbox LIVE "></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/1/#Name" type="String" value="Improve video streaming and downloading "></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/2/#Name" type="String" value="Stream media from your computer using Zune "></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/0/Title" type="String">Zune music and videos on Xbox LIVE </Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/0/Description" type="String">You can stream music and music videos from the Zune Music Marketplace to your Xbox 360 console. See how to access millions of complete songs and thousands of videos directly from your console.</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/1/Title" type="String">Improve video streaming and downloading </Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/1/Description" type="String">Are you experiencing poor video quality? Try the solutions on this page to improve the streaming of Zune video content.</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/2/Title" type="String">Stream media from your computer using Zune </Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/2/Description" type="String">Learn how to stream music, pictures, and video to your Xbox 360 console from your computer using the Zune software.</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/Title" type="String">Troubleshooting</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/0/#Name" type="String" value="Troubleshoot Xbox LIVE purchase problems "></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/1/#Name" type="String" value="Troubleshoot Zune download problems "></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/2/#Name" type="String" value="Your Xbox LIVE app won't launch"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/0/Title" type="String">Troubleshoot Xbox LIVE purchase problems </Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/0/Description" type="String">Can’t purchase something from the Xbox LIVE Marketplace? Try the solutions on this page.</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/1/Title" type="String">Troubleshoot Zune download problems </Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/1/Description" type="String">Can’t download a Zune video? Try the solutions on this page.</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/2/Title" type="String">Your Xbox LIVE app won't launch</Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/2/Description" type="String">If you have an Xbox LIVE app (such as Zune or Netflix) that won't launch properly, you may need to delete it and re-download it. Here's how to do that.</Field>
+      <Field name="ArticleGroups/0/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/0/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/1/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/0/ArticleLinks/2/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/0/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/1/#Enabled" type="String" value="True"></Field>
+      <Field name="ArticleGroups/0/ArticleSubGroups/1/ArticleLinks/2/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

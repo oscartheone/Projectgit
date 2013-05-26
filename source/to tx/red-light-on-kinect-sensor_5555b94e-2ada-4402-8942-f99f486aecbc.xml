@@ -1,0 +1,35 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="red-light-on-kinect-sensor" id="5555b94e-2ada-4402-8942-f99f486aecbc" PresentationTemplate="Support-Generic - SolutionArticlePage">
+    <Variant variantCulture="en-US">
+      <Field name="PageDetails/Title" type="String">Kinect Sensor Red Light | Kinect Errors | Kinect Support</Field>
+      <Field name="PageDetails/MetaDescription" type="String">Find out what to do if you see a red light on the Kinect sensor and an error message on your TV.</Field>
+      <Field name="PageDetails/MetaKeywords" type="String">Kinect sensor lights, Kinect sensor red light, Kinect support, Kinect sensor</Field>
+      <Field name="PageDetails/BreadcrumbName" type="String">Red light on Kinect</Field>
+      <Field name="NavigationListItem/Title" type="String">Red light on the Kinect sensor</Field>
+      <Field name="NavigationListItem/Description" type="String">A red light on the Kinect sensor means that the sensor is not working properly. Here’s what to do if you see a red light on the Kinect sensor and an error message on your TV.</Field>
+      <Field name="SolutionList/0/#Name" type="String" value="Start - Troubleshooting"></Field>
+      <Field name="SolutionList/1/#Name" type="String" value="1 image"></Field>
+      <Field name="SolutionList/2/#Name" type="String" value="Text"></Field>
+      <Field name="SolutionList/0/StartSectionModule/Title" type="String">Troubleshooting</Field>
+      <Field name="SolutionList/2/TextModule/HtmlContent" type="RichContent"><![CDATA[<p>A red light on the Kinect sensor means that the sensor is not working properly. 
+To find out how to fix this problem, click the error message that you see on your TV: </p>
+ <p><a href="/kinect/errors/red-light-kinect-sensor-5">A problem has occurred with your Kinect sensor</a> </p>
+ <p><a href="/kinect/errors/red-light-kinect-sensor-2">The Kinect sensor can't move enough</a></p>
+ <p><a href="/kinect/errors/red-light-kinect-sensor-1">The Kinect sensor has insufficient power </a></p>
+ <p><a href="/kinect/errors/red-light-kinect-sensor-4">The Kinect sensor is not level</a></p>
+ <p><a href="/kinect/errors/red-light-kinect-sensor-3">The Kinect sensor doesn't start</a> </p>
+ <p><a href="/kinect/errors/red-light-kinect-sensor-2">The Kinect sensor can't move </a></p>
+ <p><a href="/kinect/errors/red-light-kinect-sensor-1">No on-screen error message</a> </p>
+]]></Field>
+      <Field name="RelatedContentList/0/#Name" type="String" value="Kinect error messages"></Field>
+      <Field name="RelatedContentList/1/#Name" type="String" value="Kinect setup"></Field>
+      <Field name="RelatedContentList/0/Title" type="String">Kinect error messages</Field>
+      <Field name="RelatedContentList/1/Title" type="String">Kinect setup</Field>
+      <Field name="SolutionList/0/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/1/#Enabled" type="String" value="True"></Field>
+      <Field name="SolutionList/2/#Enabled" type="String" value="True"></Field>
+      <Field name="RelatedContentList/0/#Enabled" type="String" value="True"></Field>
+      <Field name="RelatedContentList/1/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>
